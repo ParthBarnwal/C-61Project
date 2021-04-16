@@ -1,0 +1,34 @@
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#mycarousel {
+    background-color: transparent;
+}
+
+
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#mycarousel1 {
+    background-color: #b5d0d4;
+}
+
+.img-responsive{
+    width: 100%;
+    height: 100%
+    
+    
+    
+}
